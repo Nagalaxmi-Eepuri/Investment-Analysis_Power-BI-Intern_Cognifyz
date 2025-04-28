@@ -8,19 +8,19 @@ The main goal is to identify key patterns in saving objectives, reasons for inve
 
 ## Tools and Technologies
 
-Power Bi for Data visualizations
-CSV for data source
-DAX (Data Analysis Expressions) for custom measures and KPIs.
+- Power Bi for Data visualizations
+- CSV for data source
+- DAX (Data Analysis Expressions) for custom measures and KPIs.
 
 ## Key Features
 
-Interactive dashboard with filters Gender and Investment type
-Trend analysis of investment behaviors
+- Interactive dashboard with filters Gender and Investment type
+- Trend analysis of investment behaviors
 ### Visual insights into:
-No of investors by source
-Investment choices by gender
-Saving objectives
-Reasons for investment
+- No of investors by source
+- Investment choices by gender
+- Saving objectives
+- Reasons for investment
 
 ## Dashboard Preview
 % of Individuals with various investment:
@@ -31,7 +31,7 @@ Common Savings Objectives:
 
 ![Image](https://github.com/user-attachments/assets/3b355f37-e3e9-44a7-8e15-17d23e723446)
 
-Reasons for Investment
+Reasons for Investment:
 
 ![Image](https://github.com/user-attachments/assets/d5c94a5b-f318-4e47-9dd8-27b60269654c)
 
@@ -44,10 +44,10 @@ Reasons for Investment
 
 ## What I learnt
 
-Building complex and dynamic visuals using Power BI.
-Writing DAX expressions for calculated columns and KPIs.
-Data transformation and modeling.
-Designing user-friendly and story-driven dashboard.
+* Building complex and dynamic visuals using Power BI.
+* Writing DAX expressions for calculated columns and KPIs.
+* Data transformation and modeling.
+* Designing user-friendly and story-driven dashboard.
 
 Power BI Services: <a href="https://app.powerbi.com/groups/me/dashboards/49485afa-14a4-47ff-9fbd-8f81307d0aed?experience=power-bi">Dashboard</a> | <a href="https://app.powerbi.com/groups/me/reports/58322559-35d9-4fa6-8c5f-3b13b9bc9c3c/add26dd6533cb883807a?experience=power-bi">Report</a>
 
@@ -56,5 +56,5 @@ Power BI Services: <a href="https://app.powerbi.com/groups/me/dashboards/49485af
 ## Acknowledgement
 Grateful for the mentorship and support during my internship, and for the opportunity to work on real-world investment analytics! 🙏
 
-Contact: <a href="www.linkedin.com/in/nagalaxmieepuri">Linkedin</a> | <a href="nagalaxmieepuri@gmail.com">Email</a>
+Contact: <a href="https://www.linkedin.com/in/nagalaxmieepuri/">Linkedin</a> | nagalaxmieepuri@gmail.com
 
